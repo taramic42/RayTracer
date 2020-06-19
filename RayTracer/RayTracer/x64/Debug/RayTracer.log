@@ -1,0 +1,5 @@
+﻿  Scene.cpp
+e:\fall 2018\raytracer\raytracer\raytracer\raytracer\scene.cpp(65): warning C4244: 'argument': conversion from 'float' to 'const unsigned int', possible loss of data
+e:\fall 2018\raytracer\raytracer\raytracer\raytracer\scene.cpp(67): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+e:\fall 2018\raytracer\raytracer\raytracer\raytracer\scene.cpp(68): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  RayTracer.vcxproj -> E:\Fall 2018\RayTracer\RayTracer\RayTracer\x64\Debug\RayTracer.exe
